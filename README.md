@@ -4,3 +4,6 @@ A lightweight distributed computing framework which uses docker and redis-cluste
 
 ## Dev Environment
 Ubuntu: 15.04
+
+## Contributors
+[joelin000](https://github.com/joelin000) [CWaYNe](https://github.com/CWaYNe)
