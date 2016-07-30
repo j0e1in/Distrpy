@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
+'''This is a partial example of our project,
+   The crawling part is not included in this repo.
+   However, I will push a specific repo for that.
+
+'''
 '''Analyze web content using our package Distrpy.
 	 Web content crawled using Scrapy and saved into
 	 MongoDB.
 '''
+
 # python 3
 import sys; sys.path.append('../src')
 from pymongo import MongoClient

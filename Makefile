@@ -1,3 +1,5 @@
+# Makefile for our previous demo
+
 all:
 	python analyze.py
 ps:
