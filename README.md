@@ -1,5 +1,7 @@
 # Distrpy
-A lightweight distributed computing framework which uses docker and redis-cluster for auto-scaling.
+A lightweight auto-scalable distributed computing framework, using docker and redis-cluster for auto-scaling.
+
+**Note: This is a course project written by 3 undergraduate students, and is no longer maintained.
 
 
 ## Dev Environment
