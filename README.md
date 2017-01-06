@@ -7,5 +7,5 @@ A lightweight auto-scalable distributed computing framework, using docker and re
 ## Dev Environment
 Ubuntu: 15.04
 
-## Contributors
-[joelin000](https://github.com/joelin000) [CWaYNe](https://github.com/CWaYNe)
+## Authors
+[j0e1in](https://github.com/j0e1in) [CWaYNe](https://github.com/CWaYNe)
